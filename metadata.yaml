@@ -1,0 +1,29 @@
+_repo: Memoirs-of-an-American-Prima-Donna_38023
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38023-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Kellogg, Clara Louise
+    alias: Strakosch, Mme. (Clara Louise)
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '39203'
+    url: http://www.gutenberg.org/2009/agents/39203
+    wikipedia: http://en.wikipedia.org/wiki/Clara_Louise_Kellogg
+description: ''
+gutenberg_issued: '2011-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kellogg, Clara Louise, 1842-1916'
+- !lcc 'ML'
+- !lcsh 'Singers -- United States -- Biography'
+title: Memoirs of an American Prima Donna
+url: http://www.gutenberg.org/ebooks/38023
